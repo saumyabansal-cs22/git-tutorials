@@ -1,1 +1,1 @@
-this is new version control of git
+this is new version control of github
