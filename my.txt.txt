@@ -1,1 +1,1 @@
-this is the updated version of my.txt
+i updated my.txt on github platform
